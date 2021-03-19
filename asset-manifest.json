@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chelsea-players/static/css/main.1383a037.chunk.css",
+    "main.js": "/chelsea-players/static/js/main.7cc389a9.chunk.js",
+    "main.js.map": "/chelsea-players/static/js/main.7cc389a9.chunk.js.map",
+    "runtime-main.js": "/chelsea-players/static/js/runtime-main.5ba76158.js",
+    "runtime-main.js.map": "/chelsea-players/static/js/runtime-main.5ba76158.js.map",
+    "static/js/2.db3edcf4.chunk.js": "/chelsea-players/static/js/2.db3edcf4.chunk.js",
+    "static/js/2.db3edcf4.chunk.js.map": "/chelsea-players/static/js/2.db3edcf4.chunk.js.map",
+    "static/js/3.3b70d06e.chunk.js": "/chelsea-players/static/js/3.3b70d06e.chunk.js",
+    "static/js/3.3b70d06e.chunk.js.map": "/chelsea-players/static/js/3.3b70d06e.chunk.js.map",
+    "index.html": "/chelsea-players/index.html",
+    "static/css/main.1383a037.chunk.css.map": "/chelsea-players/static/css/main.1383a037.chunk.css.map",
+    "static/js/2.db3edcf4.chunk.js.LICENSE.txt": "/chelsea-players/static/js/2.db3edcf4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ba76158.js",
+    "static/js/2.db3edcf4.chunk.js",
+    "static/css/main.1383a037.chunk.css",
+    "static/js/main.7cc389a9.chunk.js"
+  ]
+}
